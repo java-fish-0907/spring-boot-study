@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleaf include</title>
+</head>
+<body>
+    <!--  语法说明  "::"前面是模板文件名，后面是选择器 -->
+    <div class="commonHead" th:replace="commonHead::commonHead"></div>
+    博客正文
+    <div class="commonFooter" th:replace="commonFooter::commonFooter"></div>
+</body>
+</html>

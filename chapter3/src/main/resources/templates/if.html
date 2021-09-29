@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Thymeleaf if</title>
+</head>
+<body>
+    <div th:if="${id == 1}">th:if id==1</div>
+    <div th:if="${id != 1}">th:if id!=1</div>
+
+    <div th:unless="${id == 1}">th:unless id==1</div>
+    <div th:unless="${id != 1}">th:unless id!=1</div>
+</body>
+</html>
