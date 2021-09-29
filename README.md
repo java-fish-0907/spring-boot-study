@@ -8,7 +8,7 @@
 - [Redis专栏](https://blog.csdn.net/qq_35620342/category_11257165.html)
 - [SpringBoot2.X基础教程：快速入门](https://blog.csdn.net/qq_35620342/article/details/120432103)
 - [SpringBoot2.X基础教程：配置文件详解](https://blog.csdn.net/qq_35620342/article/details/120440398)
-- SpringBoot2.X基础教程：SpringBoot整合Thymeleaf（待分享）
+- [SpringBoot2.X基础教程：SpringBoot整合Thymeleaf](https://blog.csdn.net/qq_35620342/article/details/120484977)
 - SpringBoot2.X基础教程：SpringBoot整合JdbcTemplate（待分享）
 - SpringBoot2.X基础教程：SpringBoot整合JdbcTemplate多数据源（待分享）
 - SpringBoot2.X基础教程：SpringBoot整合MyBatis（待分享）
