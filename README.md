@@ -11,7 +11,7 @@
 - [SpringBoot2.X基础教程：SpringBoot整合Thymeleaf](https://blog.csdn.net/qq_35620342/article/details/120484977)
 - [SpringBoot2.X基础教程：SpringBoot整合JdbcTemplate](https://blog.csdn.net/qq_35620342/article/details/120482647)
 - SpringBoot2.X基础教程：SpringBoot整合JdbcTemplate多数据源（待分享）
-- SpringBoot2.X基础教程：SpringBoot整合MyBatis（待分享）
+- [SpringBoot2.X基础教程：SpringBoot整合MyBatis](https://blog.csdn.net/qq_35620342/article/details/120575277)
 - SpringBoot2.X基础教程：SpringBoot整合MyBatis多数据源（待分享）
 - SpringBoot2.X基础教程：SpringBoot整合Spring Data JPA（待分享）
 - SpringBoot2.X基础教程：SpringBoot整合Spring Data JPA 多数据源（待分享）
